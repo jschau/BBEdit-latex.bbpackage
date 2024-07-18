@@ -11,13 +11,12 @@ You can also do it on the command line:
     $ cd Library/Application\ Support/BBEdit/
     $ mkdir Packages # if it doesn't already exists
     $ cd Packages
-    $ git clone git://github.com/nathan11g/BBEdit-latex.bbpackage.git
+    $ git clone git://github.com/bbedit/BBEdit-latex.bbpackage.git
     
 Since, at that point, you're already in the proper directory, you may want to open up the README markdown document, and INSTALL shell worksheet (to install software this package depends on)
 
 	$ bbedit BBEdit-latex.bbpackage/readme.md
 	$ bbedit BBEdit-latex.bbpackage/install.worksheet
-
 
 # Philosophy
 
